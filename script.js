@@ -28,7 +28,7 @@
             ctx.fillStyle = "rgba(0, 0, 0, 0.04)";
             ctx.fillRect(0, 0, c.width, c.height);
 
-            ctx.fillStyle = "#f4427d";//green text
+            ctx.fillStyle = "#0000FF";//blue text
             ctx.font = font_size + "px arial";
             //looping over drops
             for(var i = 0; i < drops.length; i++)
