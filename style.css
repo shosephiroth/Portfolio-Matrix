@@ -19,7 +19,7 @@
   #container {
     position: relative;
   }
-  #container canvas, #overlay {
+  #container, canvas, #overlay {
     position: absolute;
   }
   canvas {
